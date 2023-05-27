@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "Mahajurul Karim",
+    "label": "Software Engineer",
+    "picture": "https://mahajurulkarim.github.io/images/pic.JPG",
+    "email": "mahajur88@gmail.com",
+    "website": "https://mahajurulkarim.github.io",
+    "summary": "Software Engineer with 4+ years of experience building consumer-facing web applications using HTML, CSS, JavaScript and php Laravel Framework. Experienced building and prototyping full stack applications using, but not limited to the following SQL, Php, Laravel, RestFull API.",
+    "location": {
+      "address": "Dhaka",
+      "postalCode": "1207",
+      "city": "Dhaka",
+      "countryCode": "BD",
+      "region": "Dhaka"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "inversemaha",
+        "url": "http://github.com/inversemaha"
+      },
+      {
+        "network": "linkedin",
+        "username": "inversemaha",
+        "url": "https://www.linkedin.com/in/maha-karim/"
+      },
+      {
+        "network": "twitter",
+        "username": "inversemaha",
+        "url": "https://twitter.com/inversemaha"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Travel"
+    },
+    {
+      "name": "Continuous Learning"
+    },
+    {
+      "name": "Excellence"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "Php",
+        "Laravel",
+        "JavaScript",
+        "Jquery",
+        "RestFull Api",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "Linux",
+        "Git/GitHub",
+        "Windows"
+      ]
+    }
+  ]
+  /*"education": [
+    {
+      "institution": "Jawaharlal Nehru Technological University",
+      "area": "Computer Science",
+      "studyType": "B.Tech",
+      "startDate": "2008",
+      "endDate": "2012",
+      "gpa": "8.5"
+    }
+  ],
+  "work": [
+    {
+      "company": "Johnson Controls",
+      "position": "Software Engineer",
+      "startDate": "2018-05-01",
+      "endDate": "2018-11-30",
+      "summary": "Worked on a web based health monitoring system for devices called ESM(Enterprise System Manager).",
+      "highlights": [
+        "Transformed  the application into modern look and aesthetics using React.",
+        "Implemented API's using Django Rest Framework connecting different modules of the product."
+      ]
+    },
+    {
+      "company": "Pushkala Constructions Pvt. Ltd",
+      "position": "Software Engineer",
+      "startDate": "2015-03-02",
+      "endDate": "2017-11-30",
+      "summary": "Inventory Management System",
+      "highlights": [
+        "Developed a restful web application for Inventory Management System , using Postgres, Python and Rest framework.",
+        "Brainstormed with designers, backend engineers and product managers to design and release new features."
+      ]
+    },
+    {
+      "company": "Provade Inc",
+      "position": "Software Engineer",
+      "startDate": "2012-09-01",
+      "endDate": "2015-03-01",
+      "summary": "SCIBOX(Staffing Company in a Box)",
+      "highlights": [
+        "Designed, Developed and Implemented the user interface using HTML, CSS, Bootstrap,  JavaScript, jQuery  and database using MySQL for the web application SCIBOX.",
+        "Brainstormed with designers, backend engineers and product managers to design and release new features."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Computer Society Of India",
+      "website": "http://www.csi-india.org/",
+      "position": "Organizer",
+      "startDate": "2009-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Succesfully organized and conducted events",
+      "highlights": [
+        "Started a chapter of CSI in my college and organized many events."
+      ]
+    },
+  ]*/
+}
